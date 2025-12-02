@@ -1,0 +1,16 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "RCOEM",
+      "period": "2022–2026",
+      "description": "B.Tech in Computer Science and Engineering (Data Science) - GPA: 8.8/10",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

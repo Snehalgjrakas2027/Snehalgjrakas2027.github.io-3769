@@ -1,0 +1,308 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Inventory Management Project (Round 2 Qualifier – Woodpecker's Hackathon)",
+      "description": "Performed ETL on inventory records and loaded cleaned data into MySQL.\nApplied ARIMA forecasting to predict stock levels with 85% accuracy and built dashboards for restocking insights.",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": "Link"
+      },
+      "stats": {}
+    },
+    {
+      "title": "FINBIZZ – Full-Stack Finance Prediction",
+      "description": "Built an executive dashboard to monitor 10+ KPIs, track 1,000+ transactions, and forecast revenue using SMA-based ML models.\nConsolidated enterprise financial data to enable 30% faster trend analysis and predictive insights.",
+      "color": "#764ba2",
+      "icon": "fas fa-project-diagram",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "NOVA: Virtual Desktop Assistant",
+      "description": "Developed an Al-powered desktop assistant to automate routine tasks, provide intelligent responses, and enhance human-computer interaction.\nPerformed comprehensive testing under various conditions and prepared detailed project documentation to ensure reliability and clarity.\nLeveraged natural language processing, desktop automation, and voice interaction to achieve 78% efficiency, outperforming existing virtual desktop assistants in specific scenarios.",
+      "color": "#f093fb",
+      "icon": "fas fa-project-diagram",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": "Link"
+      },
+      "stats": {}
+    },
+    {
+      "title": "Snehalgjrakas2027.github.io",
+      "description": "Professional portfolio for Snehalgjrakas2027",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Snehalgjrakas2027.github.io",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "Image-Processing-Algorithms",
+      "description": "This project demonstrates the implementation of key computer vision and image processing algorithms using OpenCV. Each algorithm is implemented in Python and applied on sample image pairs to detect keypoints, match features, and analyze image structures. The results are visualized and saved for review.",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Image-Processing-Algorithms",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/contribution-history",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": ""
+      }
+    },
+    {
+      "title": "NOVA-AI",
+      "description": "GitHub repository: NOVA-AI",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/NOVA-AI",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "macos-system-health-monitor",
+      "description": "GitHub repository: macos-system-health-monitor",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/macos-system-health-monitor",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "microship",
+      "description": "GitHub repository: microship",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/microship",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "snehal-portfolio",
+      "description": "GitHub repository: snehal-portfolio",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/snehal-portfolio",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "Firebase-To-Do-app",
+      "description": "GitHub repository: Firebase-To-Do-app",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Firebase-To-Do-app",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Project1",
+      "description": "GitHub repository: Project1",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Project1",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "customer-churn-analysis",
+      "description": "GitHub repository: customer-churn-analysis",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/customer-churn-analysis",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "todo-firebase",
+      "description": "GitHub repository: todo-firebase",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/todo-firebase",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+      "description": "GitHub repository: Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Marcus Johnson",
+    "title": "Creative Developer & Digital Artist",
+    "bio": "Pushing the boundaries of web design with creative code and interactive experiences."
+  },
+  "contact": {
+    "email": "marcus.johnson@email.com",
+    "phone": "+1 (555) 456-7890",
+    "githubUsername": "marcusjohnson",
+    "linkedin": "https://linkedin.com/in/marcusjohnson",
+    "instagram": "https://instagram.com/marcusjohnson"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Marcus Johnson - Portfolio",
+    "description": "Creative Developer & Digital Artist Portfolio"
+  }
+}

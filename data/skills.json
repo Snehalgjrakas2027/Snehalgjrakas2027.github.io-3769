@@ -1,0 +1,45 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Data Processing",
+        "MySQL",
+        "AWS",
+        "Scalability",
+        "Reliability",
+        "Availability",
+        "EC2",
+        "S3",
+        "Git",
+        "GitHub",
+        "VS code",
+        "Data Visualisation",
+        "Matplotlib",
+        "Seaborn",
+        "PowerBI",
+        "Tableau",
+        "Qlik"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "VS code",
+        "Data Visualisation",
+        "Matplotlib",
+        "Seaborn",
+        "PowerBI",
+        "Tableau",
+        "Qlik",
+        "C++",
+        "Python"
+      ]
+    }
+  ]
+}

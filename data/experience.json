@@ -1,0 +1,29 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "",
+      "company": "Juniper Networks – Cloud Associate (JNCAA)",
+      "location": "",
+      "period": "May 2025",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "",
+      "company": "British Airways – Virtual Job Simulation",
+      "location": "",
+      "period": "Aug 2024",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}
